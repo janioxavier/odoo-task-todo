@@ -1,0 +1,30 @@
+<odoo>
+    <data>
+
+          <record id="object0" model="tarefa.tarefa">
+            <field name="name">Tarefa 1</field>
+            <field name="done">True</field>
+          </record>
+
+          <record id="object1" model="tarefa.tarefa">
+            <field name="name">Tarefa 2</field>
+            <field name="done">True</field>
+          </record>
+
+          <record id="object2" model="tarefa.tarefa">
+            <<field name="name">Tarefa 3</field>
+            <field name="done">True</field>
+          </record>
+
+          <record id="object3" model="tarefa.tarefa">
+            <field name="name">Tarefa 4</field>
+            <field name="done">True</field>
+          </record>
+
+          <record id="object4" model="tarefa.tarefa">
+            <field name="name">Tarefa 5</field>
+            <field name="done">True</field>
+          </record>
+
+    </data>
+</odoo>
